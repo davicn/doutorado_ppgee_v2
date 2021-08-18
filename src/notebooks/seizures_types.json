@@ -1,0 +1,242 @@
+[
+    {
+        "Class Code": null,
+        "Class No.": 0,
+        "Event Name": "No Event",
+        "Signs": null,
+        "Locality": null,
+        "Description": "An unclassified event"
+    },
+    {
+        "Class Code": "SPSW",
+        "Class No.": 1,
+        "Event Name": "Spike\/Sharp and Wave",
+        "Signs": "Electrographic",
+        "Locality": "All",
+        "Description": "Spike and wave\/complexes , sharp and wave\/complexes"
+    },
+    {
+        "Class Code": "GPED",
+        "Class No.": 2,
+        "Event Name": "Generalized Periodic Epileptiform Discharges",
+        "Signs": "Electrographic",
+        "Locality": "Generalized",
+        "Description": "Diffused periodic discharges"
+    },
+    {
+        "Class Code": "PLED",
+        "Class No.": 3,
+        "Event Name": "Periodic Lateralized Epileptiform Discharges",
+        "Signs": "Electrographic",
+        "Locality": "Hemispheric\/Focal",
+        "Description": "Focal periodic discharges"
+    },
+    {
+        "Class Code": "EYBL",
+        "Class No.": 4,
+        "Event Name": "Eye blink",
+        "Signs": "Clinical & Electrographic",
+        "Locality": "Focal",
+        "Description": "A specific type of sharp, high amplitude eye movement artifact corresponding to blinks"
+    },
+    {
+        "Class Code": "ARTF",
+        "Class No.": 5,
+        "Event Name": "Artifacts (All)",
+        "Signs": "Clinical & Electrographic",
+        "Locality": "All",
+        "Description": "Any non-brain activity electrical signal, such as those due to equipment or environmental factors"
+    },
+    {
+        "Class Code": "BCKG",
+        "Class No.": 6,
+        "Event Name": "Background",
+        "Signs": "Electrographic",
+        "Locality": null,
+        "Description": "Baseline\/non-interesting events"
+    },
+    {
+        "Class Code": "SEIZ",
+        "Class No.": 7,
+        "Event Name": "Seizure",
+        "Signs": "Clinical &| Electrographic",
+        "Locality": "All",
+        "Description": "Common seizure class which can include all types of seizure"
+    },
+    {
+        "Class Code": "FNSZ",
+        "Class No.": 8,
+        "Event Name": "Focal Non-Specific Seizure",
+        "Signs": "Electrographic",
+        "Locality": "Hemispheric\/Focal",
+        "Description": "Focal seizures which cannot be specified with its type"
+    },
+    {
+        "Class Code": "GNSZ",
+        "Class No.": 9,
+        "Event Name": "Generalized Non-Specific Seizure",
+        "Signs": "Electrographic",
+        "Locality": "Generalized",
+        "Description": "Generalized seizures which cannot be further classified into one of the groups below"
+    },
+    {
+        "Class Code": "SPSZ",
+        "Class No.": 10,
+        "Event Name": "Simple Partial Seizure",
+        "Signs": "Clinical & Electrographic",
+        "Locality": "All",
+        "Description": "Partial seizures during consciousness; Type specified by clinical signs only"
+    },
+    {
+        "Class Code": "CPSZ",
+        "Class No.": 11,
+        "Event Name": "Complex Partial Seizure",
+        "Signs": "Clinical & Electrographic",
+        "Locality": "All",
+        "Description": "Partial Seizures during unconsciousness; Type specified by clinical signs only"
+    },
+    {
+        "Class Code": "ABSZ",
+        "Class No.": 12,
+        "Event Name": "Absence Seizure",
+        "Signs": "Clinical & Electrographic",
+        "Locality": "Generalized",
+        "Description": "Absence Discharges observed on EEG; patient loses consciousness for few seconds (Petit Mal)"
+    },
+    {
+        "Class Code": "TNSZ",
+        "Class No.": 13,
+        "Event Name": "Tonic Seizure",
+        "Signs": "Clinical & Electrographic",
+        "Locality": "All",
+        "Description": "Stiffening of body during seizure (EEG effects disappears)"
+    },
+    {
+        "Class Code": "CNSZ",
+        "Class No.": 14,
+        "Event Name": "Clonic Seizure",
+        "Signs": "Clinical & Electrographic",
+        "Locality": "All",
+        "Description": "Jerking\/shivering of body during seizure"
+    },
+    {
+        "Class Code": "TCSZ",
+        "Class No.": 15,
+        "Event Name": "Tonic Clonic Seizure",
+        "Signs": "Clinical & Electrographic",
+        "Locality": "All",
+        "Description": "At first stiffening and then jerking of body (Grand Mal)"
+    },
+    {
+        "Class Code": "ATSZ",
+        "Class No.": 16,
+        "Event Name": "Atonic Seizure",
+        "Signs": "Clinical & Electrographic",
+        "Locality": null,
+        "Description": "Sudden loss of muscle tone"
+    },
+    {
+        "Class Code": "MYSZ",
+        "Class No.": 17,
+        "Event Name": "Myoclonic Seizure",
+        "Signs": "Clinical & Electrographic",
+        "Locality": null,
+        "Description": "Myoclonous jerks of limbs"
+    },
+    {
+        "Class Code": "NESZ",
+        "Class No.": 18,
+        "Event Name": "Non-Epileptic Seizure",
+        "Signs": "Clinical & Electrographic",
+        "Locality": null,
+        "Description": "Any non-epileptic seizure observed. Contains no electrographic signs."
+    },
+    {
+        "Class Code": "INTR",
+        "Class No.": 19,
+        "Event Name": "Interesting Patterns",
+        "Signs": "Electrographic",
+        "Locality": "All",
+        "Description": "Any unusual or interesting patterns observed that don't fit into the above classes."
+    },
+    {
+        "Class Code": "SLOW",
+        "Class No.": 20,
+        "Event Name": "Slowing",
+        "Signs": "Electrographic",
+        "Locality": "All",
+        "Description": "A brief decrease in frequency"
+    },
+    {
+        "Class Code": "EYEM",
+        "Class No.": 21,
+        "Event Name": "Eye Movement Artifact",
+        "Signs": "Clinical & Electrographic",
+        "Locality": "Focal",
+        "Description": "A very common frontal\/prefrontal artifact seen when the eyes move"
+    },
+    {
+        "Class Code": "CHEW",
+        "Class No.": 22,
+        "Event Name": "Chewing Artifact",
+        "Signs": "Clinical & Electrographic",
+        "Locality": "All",
+        "Description": "A specific artifact involving multiple channels that corresponds with patient chewing, \u201cbursty\u201d"
+    },
+    {
+        "Class Code": "SHIV",
+        "Class No.": 23,
+        "Event Name": "Shivering Artifact",
+        "Signs": "Clinical & Electrographic",
+        "Locality": "All",
+        "Description": "A specific, sustained sharp artifact that corresponds with patient shivering."
+    },
+    {
+        "Class Code": "MUSC",
+        "Class No.": 24,
+        "Event Name": "Muscle Artifact",
+        "Signs": "Clinical & Electrographic",
+        "Locality": "All",
+        "Description": "A very common, high frequency, sharp artifact that corresponds with agitation\/nervousness in a patient."
+    },
+    {
+        "Class Code": "ELPP",
+        "Class No.": 25,
+        "Event Name": "Electrode Pop Artifact",
+        "Signs": "Clinical & Electrographic",
+        "Locality": "Focal",
+        "Description": "A short artifact characterized by channels using the same electrode \u201cspiking\u201d with perfect symmetry."
+    },
+    {
+        "Class Code": "ELST",
+        "Class No.": 26,
+        "Event Name": "Electrostatic Artifact",
+        "Signs": "Clinical & Electrographic",
+        "Locality": "All",
+        "Description": "Artifact caused by movement or interference on the electrodes, variety of morphologies."
+    },
+    {
+        "Class Code": "CALB",
+        "Class No.": 27,
+        "Event Name": "Calibration Artifact",
+        "Signs": "Clinical & Electrographic",
+        "Locality": "All",
+        "Description": "Artifact caused by calibration of the electrodes. Appears as a flattening of the signal in the beginning of files."
+    },
+    {
+        "Class Code": "HPHS",
+        "Class No.": 28,
+        "Event Name": "Hypnagogic Hypersynchrony",
+        "Signs": "Electrographic",
+        "Locality": "Generalized",
+        "Description": "A brief period of high amplitude slow waves."
+    },
+    {
+        "Class Code": "TRIP",
+        "Class No.": 29,
+        "Event Name": "Triphasic Wave",
+        "Signs": "Electrographic",
+        "Locality": "Generalized",
+        "Description": "Large, three-phase waves frequently caused by an underlying metabolic condition."
+    }
+]
